@@ -11,4 +11,5 @@ This is a simple video player that is created using JavaFX. It supports both aud
 
 ## Playing Video File
 
-![Video File](https://user-images.githubusercontent.com/66724151/166106559-5fec18a3-6b20-4ff6-948b-8ca4585e2048.png)
+![Video File](https://user-images.githubusercontent.com/66724151/166108206-46529158-ebf1-4d3f-8a3c-534f27f9373e.png)
+
